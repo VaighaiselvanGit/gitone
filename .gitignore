@@ -1,1 +1,10 @@
 .git
+
+
+git checkout -b branch_name
+
+git branch -D branch_name
+
+-- after gets merged to master branch
+
+git branch -d branch_name
